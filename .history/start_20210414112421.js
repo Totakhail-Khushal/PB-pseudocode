@@ -62,14 +62,14 @@ if (50 === 51) {
 if (110 > 100) {
     console.log(true)
 } else {
-    console.log(false)
+    console.log(true)
 }
 
 // 150, 100	 => true
 if (150 > 100) {
     console.log(true)
 } else {
-    console.log(false)
+    console.log(true)
 
 }
 // 50, 100	   => false
